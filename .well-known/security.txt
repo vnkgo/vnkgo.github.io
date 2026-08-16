@@ -1,0 +1,4 @@
+Contact: mailto:vnkgofor@gmail.com
+Expires: 2027-08-15T23:59:59Z
+Canonical: https://somethingfornothing.me/.well-known/security.txt
+Preferred-Languages: zh-CN, en
